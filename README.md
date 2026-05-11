@@ -11,9 +11,6 @@ A collection of quantitative finance models implemented in Python.
 - Merton Model (structural credit risk)
 - Backtesting (algorithmic trading strategy validation)
 
-## Background
-Physics graduate with experience in Credit Risk (Moody's Analytics).
-Building this portfolio to transition into Quantitative Research / Algo Trading.
 
 ## Tools
 Python | NumPy | Pandas | Matplotlib | SciPy
